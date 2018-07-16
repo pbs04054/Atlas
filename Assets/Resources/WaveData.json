@@ -1,0 +1,404 @@
+{
+  "waves": [
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 20,
+          "multiple": 0
+        }
+      ],
+      "waveInterval": 30
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 20,
+          "multiple": 1
+        },
+        {
+          "id": 1,
+          "amount": 5,
+          "multiple": 1
+        }
+      ],
+      "waveInterval": 40
+    },
+    {
+      "wave": [
+        {
+          "id": 2,
+          "amount": 30,
+          "multiple": 0
+        },
+        {
+          "id": 1,
+          "amount": 10,
+          "multiple": 3
+        },
+        {
+          "id": 0,
+          "amount": 10,
+          "multiple": 3
+        }
+      ],
+      "waveInterval": 40
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 15,
+          "multiple": 3
+        },
+        {
+          "id": 1,
+          "amount": 10,
+          "multiple": 3
+        },
+        {
+          "id": 3,
+          "amount": 15,
+          "multiple": 3
+        },
+        {
+          "id": 4,
+          "amount": 5,
+          "multiple": 1
+        },
+        {
+          "id": 2,
+          "amount": 30,
+          "multiple": 3
+        }
+      ],
+      "waveInterval": 100
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 10,
+          "multiple": 10
+        },
+        {
+          "id": 1,
+          "amount": 5,
+          "multiple": 10
+        }
+      ],
+      "waveInterval": 50
+    },
+    {
+      "wave": [
+        {
+          "id": 3,
+          "amount": 50,
+          "multiple": 0
+        },
+        {
+          "id": 1,
+          "amount": 5,
+          "multiple": 5
+        }
+      ],
+      "waveInterval": 60
+    },
+    {
+      "wave": [
+        {
+          "id": 2,
+          "amount": 20,
+          "multiple": 5
+        },
+        {
+          "id": 4,
+          "amount": 20,
+          "multiple": 5
+        }
+      ],
+      "waveInterval": 50
+    },
+    {
+      "wave": [
+        {
+          "id": 3,
+          "amount": 80,
+          "multiple": 0
+        },
+        {
+          "id": 1,
+          "amount": 5,
+          "multiple": 2
+        }
+      ],
+      "waveInterval": 50
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 10,
+          "multiple": 5
+        },
+        {
+          "id": 3,
+          "amount": 20,
+          "multiple": 5
+        }
+      ],
+      "waveInterval": 40
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 5,
+          "multiple": 10
+        },
+        {
+          "id": 1,
+          "amount": 5,
+          "multiple": 5
+        },
+        {
+          "id": 2,
+          "amount": 30,
+          "multiple": 10
+        },
+        {
+          "id": 5,
+          "amount": 1,
+          "multiple": 0
+        },
+        {
+          "id": 4,
+          "amount": 5,
+          "multiple": 10
+        }
+      ],
+      "waveInterval": 120
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 10,
+          "multiple": 10
+        },
+        {
+          "id": 1,
+          "amount": 5,
+          "multiple": 10
+        },
+        {
+          "id": 2,
+          "amount": 20,
+          "multiple": 10
+        },
+        {
+          "id": 3,
+          "amount": 20,
+          "multiple": 10
+        },
+        {
+          "id": 4,
+          "amount": 5,
+          "multiple": 10
+        }
+      ],
+      "waveInterval": 80
+    },
+    {
+      "wave": [
+        {
+          "id": 2,
+          "amount": 30,
+          "multiple": 15
+        },
+        {
+          "id": 3,
+          "amount": 30,
+          "multiple": 15
+        },
+        {
+          "id": 4,
+          "amount": 15,
+          "multiple": 10
+        }
+      ],
+      "waveInterval": 80
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 10,
+          "multiple": 15
+        },
+        {
+          "id": 1,
+          "amount": 15,
+          "multiple": 15
+        },
+        {
+          "id": 2,
+          "amount": 80,
+          "multiple": 0
+        }
+      ],
+      "waveInterval": 60
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 10,
+          "multiple": 50
+        },
+        {
+          "id": 1,
+          "amount": 10,
+          "multiple": 50
+        }
+      ],
+      "waveInterval": 40
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 20,
+          "multiple": 15
+        },
+        {
+          "id": 1,
+          "amount": 20,
+          "multiple": 15
+        },
+        {
+          "id": 2,
+          "amount": 20,
+          "multiple": 5
+        },
+        {
+          "id": 3,
+          "amount": 20,
+          "multiple": 15
+        },
+        {
+          "id": 4,
+          "amount": 10,
+          "multiple": 30
+        }
+      ],
+      "waveInterval": 60
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 20,
+          "multiple": 17
+        },
+        {
+          "id": 1,
+          "amount": 10,
+          "multiple": 17
+        },
+        {
+          "id": 3,
+          "amount": 20,
+          "multiple": 10
+        },
+        {
+          "id": 4,
+          "amount": 5,
+          "multiple": 17
+        }
+      ],
+      "waveInterval": 80
+    },
+    {
+      "wave": [
+        {
+          "id": 2,
+          "amount": 5,
+          "multiple": 200
+        }
+      ],
+      "waveInterval": 40
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 30,
+          "multiple": 20
+        },
+        {
+          "id": 3,
+          "amount": 30,
+          "multiple": 30
+        },
+        {
+          "id": 4,
+          "amount": 10,
+          "multiple": 15
+        }
+      ],
+      "waveInterval": 80
+    },
+    {
+      "wave": [
+        {
+          "id": 0,
+          "amount": 20,
+          "multiple": 15
+        },
+        {
+          "id": 1,
+          "amount": 20,
+          "multiple": 15
+        },
+        {
+          "id": 2,
+          "amount": 20,
+          "multiple": 5
+        },
+        {
+          "id": 3,
+          "amount": 20,
+          "multiple": 15
+        },
+        {
+          "id": 4,
+          "amount": 10,
+          "multiple": 50
+        }
+      ],
+      "waveInterval": 60
+    },
+    {
+      "wave": [
+        {
+          "id": 2,
+          "amount": 30,
+          "multiple": 25
+        },
+        {
+          "id": 3,
+          "amount": 30,
+          "multiple": 25
+        },
+        {
+          "id": 5,
+          "amount": 10,
+          "multiple": 1
+        }
+      ],
+      "waveInterval": 60
+    }
+  ]
+}
